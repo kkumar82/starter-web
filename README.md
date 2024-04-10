@@ -15,3 +15,6 @@ As stated above.
 Deployment goes here
 
 ## How To Continue
+
+### Copyright
+2014 copyright in readme
