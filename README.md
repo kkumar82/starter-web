@@ -15,6 +15,7 @@ As stated above.
 Deployment goes here
 
 ## How To Continue
+Please fork this repo
 
 ### Copyright
 2014 copyright in readme
