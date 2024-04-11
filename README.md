@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and Github together.
-Updating an emergency fix after stashing
+Updating an emergency fix after stashing *****
 
 ## Introduction
 
